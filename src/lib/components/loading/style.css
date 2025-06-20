@@ -1,0 +1,4 @@
+.gradient-animation-effect {
+	--gradation-second-color: rgba(255, 255, 255, 0.207) 50%;
+	--animation-duration: 2s;
+}

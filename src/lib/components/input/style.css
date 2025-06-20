@@ -1,0 +1,3 @@
+.labelinput {
+	@apply block p-2 w-full text-lg appearance-none focus:outline-none bg-transparent border-0 rounded-md pl-3;
+}
